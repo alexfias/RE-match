@@ -1,4 +1,5 @@
 import pandas as pd
+import pypsa
 
 def compute_node_resilience_metrics(network, snapshots=None):
     """
