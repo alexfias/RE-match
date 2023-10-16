@@ -1,6 +1,6 @@
-# Renewable Matching Index (RMI)
+# Renewable Matching (RM)
 
-This repository provides a framework to compute the Renewable Matching Index (RMI) for energy system models. The goal is to assess how well an energy model matches renewable generation with demand in both space and time. It builds upon and extends the adequacy indicators defined by ENTSO-E, such as loss of load duration, loss of load expectation, and energy not served.
+This repository provides a framework to compute the Renewable Matching (RM) for energy system models. The goal is to assess how well an energy model matches renewable generation with demand in both space and time. It builds upon and extends the adequacy indicators defined by ENTSO-E, such as loss of load duration, loss of load expectation, and energy not served.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This repository provides a framework to compute the Renewable Matching Index (RM
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/renewable-matching-index.git
+   git clone https://github.com/yourusername/renewable-matching.git
 
 2. Install the required packages:
    pip install -r requirements.txt
